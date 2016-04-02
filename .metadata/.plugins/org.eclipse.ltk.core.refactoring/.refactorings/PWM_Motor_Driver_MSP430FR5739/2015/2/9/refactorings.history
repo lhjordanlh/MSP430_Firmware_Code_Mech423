@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;PWM_Motor_Driver_MSP430FR5739/main.c&apos; to &apos;PWM&apos;" description="Rename resource &apos;main.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="main.c" name="PWM" stamp="1424831733324" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;PWM_Motor_Driver_MSP430FR5739/PWM&apos; to &apos;PWM.c&apos;" description="Rename resource &apos;PWM&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="PWM" name="PWM.c" stamp="1424831742574" updateReferences="true"/>
+</session>

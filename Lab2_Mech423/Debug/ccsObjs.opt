@@ -1,0 +1,1 @@
+"./MECH 423 blink example.obj" "./MECH 423 clock and UART example.obj" "./lab2_exer1.obj" "../lnk_msp430f2274.cmd" -l"libc.a" 
